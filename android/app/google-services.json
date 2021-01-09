@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "768636082180",
+    "firebase_url": "https://messagerie-4c6e4.firebaseio.com",
+    "project_id": "messagerie-4c6e4",
+    "storage_bucket": "messagerie-4c6e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768636082180:android:f3dc99c970e2b8a291bd51",
+        "android_client_info": {
+          "package_name": "com.donne.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768636082180-lp3kb719g9osnvq3d6v2l1qian7s8gki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.donne.chat_app",
+            "certificate_hash": "38684a82b52c1b031ed6a5b5eeb4b6a5e54ab90f"
+          }
+        },
+        {
+          "client_id": "768636082180-2blg92ldn3fl31a3adjm4hsap4mgdsmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrczwazDhMvqnRZLACxNMAB6ZADoeRPDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768636082180-2blg92ldn3fl31a3adjm4hsap4mgdsmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
